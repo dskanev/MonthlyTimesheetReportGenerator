@@ -25,7 +25,7 @@ namespace MonthlyTimesheetReportGenerator
                     worksheet.Cells[row, 4].Value = "VACATION";
                     worksheet.Cells[row, 5].Value = "VACATION";
                     worksheet.Cells[row, 6].Value = "VACATION";
-                    worksheet.Cells[row, 7].Value = 8;
+                    worksheet.Cells[row, 7].Value = 0;
                 }
             }
         }
